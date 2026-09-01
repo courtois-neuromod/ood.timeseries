@@ -1,0 +1,1 @@
+a32d452e-b95a-49c1-8d61-fa596b9ed403 autoenable=true bucket=cneuromod.ood.timeseries chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.ood.timeseries port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1788297304s
